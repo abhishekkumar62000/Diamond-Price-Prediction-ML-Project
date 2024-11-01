@@ -1,6 +1,8 @@
 # Diamond-Price-Prediction-ML-Project
 
 ![froundend](https://github.com/user-attachments/assets/df8bf321-db59-4a44-8be9-00cec822c855)
+![pngwing com (26)](https://github.com/user-attachments/assets/6b803050-75a6-4fee-a4ed-9be33a548c83)
+![pngwing com (27)](https://github.com/user-attachments/assets/c28691d4-3606-439a-a110-f4cbcc6c6249)
 
 # Diamond Price Prediction ML Project 💎📈
 
